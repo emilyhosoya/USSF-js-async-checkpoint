@@ -1,0 +1,23 @@
+{
+  "name": "ussf-js-async-checkpoint",
+  "version": "1.0.0",
+  "description": "Get Pokemon types based on a list in pokemon.txt",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilyhosoya/USSF-js-async-checkpoint.git"
+  },
+  "keywords": [
+    "pokeapi",
+    "javascript"
+  ],
+  "author": "Emily Hosoya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilyhosoya/USSF-js-async-checkpoint/issues"
+  },
+  "homepage": "https://github.com/emilyhosoya/USSF-js-async-checkpoint#readme"
+}
